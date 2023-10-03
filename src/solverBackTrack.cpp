@@ -28,6 +28,7 @@ void solverBackTrack::printManager(const std::string& type) {
     else {
         printBoard(solutions.top().pBoard);
     }
+    std::cout << "Maximum number of queens on board: " << maxSF << std::endl;
 }
 
 void solverBackTrack::printBoard(std::vector<std::vector<Square>> printBoard) const {
