@@ -1,4 +1,4 @@
-# Install script for directory: /Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ
+# Install script for directory: /Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

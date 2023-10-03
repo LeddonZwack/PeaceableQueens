@@ -1,3 +1,3 @@
-/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ/cmake-build-debug/CMakeFiles/testPQ.dir
-/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens/cmake-build-debug/CMakeFiles/testPQ.dir
+/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,10 +1,6 @@
 # ninja log v5
-3	590	1696352839445808117	CMakeFiles/testPQ.dir/main.cpp.o	6357b6b0d5dae5cb
-630	730	1696352839586663801	testPQ	d4446a3d91df0b36
-7	176	1696350694911530893	CMakeFiles/testPQ.dir/Square.cpp.o	b22d3b7cfb33c274
-4	630	1696352839486829807	CMakeFiles/testPQ.dir/solverBackTrack.cpp.o	4bf960431efa8c6e
-0	66	1696353206762218090	build.ninja	a94aad02827dc42e
-3	184	1696353206952602298	CMakeFiles/testPQ.dir/src/Square.cpp.o	9e34b3f73e2a014d
 3	496	1696353207265595542	CMakeFiles/testPQ.dir/main.cpp.o	6357b6b0d5dae5cb
-3	565	1696353207334525948	CMakeFiles/testPQ.dir/src/solverBackTrack.cpp.o	7e8e820272142f6f
 565	681	1696353207451297653	testPQ	9fe70e1f7f7e323a
+0	66	1696355107499987962	build.ninja	a94aad02827dc42e
+3	184	1696353206952602298	CMakeFiles/testPQ.dir/src/Square.cpp.o	9e34b3f73e2a014d
+3	565	1696353207334525948	CMakeFiles/testPQ.dir/src/solverBackTrack.cpp.o	7e8e820272142f6f

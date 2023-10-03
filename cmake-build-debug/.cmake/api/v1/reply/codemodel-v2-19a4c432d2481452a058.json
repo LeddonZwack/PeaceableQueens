@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ/cmake-build-debug",
-		"source" : "/Users/leddonzwack/Desktop/Junior/PersonalProjects/QuantCS/testPQ"
+		"build" : "/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens/cmake-build-debug",
+		"source" : "/Users/leddonzwack/Desktop/Junior/PersonalProjects/PublicRepositories/PeaceableQueens"
 	},
 	"version" : 
 	{

@@ -5,9 +5,6 @@ using namespace std::chrono;
 #include "include/solverBackTrack.h"
 
 int main() {
-    std::cout << "Hello, this is the Peaceable Queens problem!\nGiven an n X n chessboard, "
-                 "what's the maximum number of m white queens and m black queens that can "
-                 "coexist without attacking each other?"<< std::endl;
     int n;
     std::cout << "\nPlease enter your desired board size: ";
     std::cin >> n;
